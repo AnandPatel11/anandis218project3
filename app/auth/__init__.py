@@ -7,6 +7,8 @@ from app.auth.forms import login_form, register_form, profile_form, security_for
 from app.db import db
 from app.db.models import User
 
+from flask import logging
+
 auth = Blueprint('auth', __name__, template_folder='templates')
 
 
@@ -172,5 +174,7 @@ def delete_user(user_id):
 
 
 
-
+if __name__ == '__main__':
+    log = logging.getLogger("__main__")
+    log.DEBUG('method:{}, route:{}, time:{}, request address{}')
 
