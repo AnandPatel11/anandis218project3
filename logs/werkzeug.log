@@ -1,0 +1,20 @@
+2022-05-05 20:43:34,854 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:43:34] "GET / HTTP/1.1" 200 -
+2022-05-05 20:43:35,473 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:43:35] "GET / HTTP/1.1" 200 -
+2022-05-05 20:43:35,821 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:43:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-05 20:43:49,811 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:43:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-05 20:43:49,831 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:43:49] "GET /login HTTP/1.1" 200 -
+2022-05-05 20:44:09,942 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:09] "GET /register HTTP/1.1" 200 -
+2022-05-05 20:44:22,991 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:22] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-05-05 20:44:23,004 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:23] "GET /login HTTP/1.1" 200 -
+2022-05-05 20:44:25,327 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:25] "GET /login HTTP/1.1" 200 -
+2022-05-05 20:44:30,612 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-05 20:44:30,641 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:30] "GET /dashboard HTTP/1.1" 200 -
+2022-05-05 20:44:35,039 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:35] "GET /users HTTP/1.1" 200 -
+2022-05-05 20:44:35,122 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:35] "GET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1" 200 -
+2022-05-05 20:44:38,634 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:44:38] "GET /songs HTTP/1.1" 200 -
+2022-05-05 20:45:17,667 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:45:17] "GET /songs/upload HTTP/1.1" 200 -
+2022-05-05 20:45:23,816 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:45:23] "[32mPOST /songs/upload HTTP/1.1[0m" 302 -
+2022-05-05 20:45:23,854 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:45:23] "GET /songs HTTP/1.1" 200 -
+2022-05-05 20:45:29,612 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:45:29] "GET /profile HTTP/1.1" 200 -
+2022-05-05 20:45:31,513 [INFO] werkzeug: 172.25.0.1 - - [05/May/2022 20:45:31] "GET /songs HTTP/1.1" 200 -
+2022-05-05 20:53:22,430 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/conftest.py', reloading
